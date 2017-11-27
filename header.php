@@ -65,13 +65,14 @@
 				<span class="icon-bar"></span>
 			</button>
 		</div>
-		<div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+		<div id="navbar" class="navbar-collapse collapse" aria-expanded="false">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="index.php">首頁</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">重要公告 <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="#">榮譽捷報</a></li>
+						<li><a href="#">演講資訊</a></li>
 					</ul>
 				</li>
 				<li class="dropdown">
