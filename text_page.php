@@ -19,27 +19,27 @@
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.php">首頁</a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">重要公告 <span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">重要公告 <span class="arrow"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">榮譽捷報</a></li>
 								<li><a href="#">演講資訊</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">系所簡介 <span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">系所簡介 <span class="arrow"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">系史館</a></li>
 							</ul>
 						</li>
 						<li><a href="#">師資介紹</a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學生專區 <span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學生專區 <span class="arrow"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">獎助學金</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">招生資訊 <span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">招生資訊 <span class="arrow"></span></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">大學部</a></li>
 							</ul>
