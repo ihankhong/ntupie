@@ -289,6 +289,16 @@ footer .footer-contact .copyright {
   color: #288bab;
 }
 
+@media all and (max-width: 767px) {
+  footer .border-right {
+    border-right: none;
+  }
+
+  footer img {
+    margin-bottom: 20px;
+  }
+}
+
 /**
  * sidebar page
  */
