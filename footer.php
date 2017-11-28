@@ -11,5 +11,6 @@
         	</div>
         </div>
     </footer>
+    <a id="back-to-top" href="#" class="btn btn-primary btn-sm back-to-top" role="button" title="Top" data-toggle="tooltip" data-placement="top"><span class="glyphicon glyphicon-chevron-up"></span></a>
 </body>
 </html>
