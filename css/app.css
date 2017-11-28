@@ -50,8 +50,20 @@ a:active {
 }
 
 .sidebar-wrap .navbar-header img,
-.photos img {
+.content-box .photos img {
   width: 100%;
+}
+
+.content-wrap .sidebar-wrap h3,
+.content-box .content>.mix>h3 {
+  color: #fff;
+  background-color: #23419b;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
 }
 
 /**
@@ -228,16 +240,8 @@ a:active {
 }
 
 .content-wrap .sidebar-wrap h3 {
-  color: #fff;
   margin: 0;
   padding: 20px 0 20px 15px;
-  background-color: #23419b;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  -webkit-border-top-left-radius: 10px;
-  -webkit-border-top-right-radius: 10px;
-  -moz-border-radius-topleft: 10px;
-  -moz-border-radius-topright: 10px;
 }
 
 .content-wrap .sidebar-wrap .list {
@@ -418,39 +422,54 @@ footer .footer-contact .copyright {
   line-height: 26px;
 }
 
-.content-box .content .list {
+.content-box .content>.list {
   padding: 15px;
   border-top: 1px dashed #d7d7d7;
 }
 
-.content-box .content .list:first-child {
+.content-box .content>.list:first-child {
   border-top: none;
 }
 
-.content-box .content .list>span {
+.content-box .content>.list>span {
   margin-right: 20px;
 }
 
-.content-box .content .list>a {
+.content-box .content>.list>a {
   color: #4670ba;
 }
 
-.content-box .content .list:hover,
-.content-box .content .list:focus,
-.content-box .content .list:active {
+.content-box .content>.list:hover,
+.content-box .content>.list:focus,
+.content-box .content>.list:active {
   text-decoration: none;
   background-color: #eee;
 }
 
+.content-box .photos img {
+  margin-bottom: 15px;
+}
+
+.content-box .content>.mix>h3 {
+  padding: 10px;
+}
+
+.content-box .content>.mix .item>.sub-title {
+  font-weight: 700;
+  display: block;
+}
+
+.content-box .content>.mix .link>i {
+  margin-right: 5px;
+  font-weight: 700;
+}
+ 
 @media all and (max-width: 767px) {
   .content-box {
     margin-top: 20px;
   }
-}
 
-/**
- * album photos
- */
-.photos img {
-  margin-bottom: 15px;
+  .content-box .content>.mix>.row>div:first-child {
+    margin-bottom: 15px;
+  }
 }
