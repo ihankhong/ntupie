@@ -469,7 +469,26 @@ footer .footer-contact .copyright {
     margin-top: 20px;
   }
 
+  .content-box h1 {
+    font-size: 30px;
+    background-size: contain;
+  }
+
   .content-box .content>.mix>.row>div:first-child {
     margin-bottom: 15px;
+  }
+}
+
+@media all and (max-width: 450px) {
+  .content-box h1 {
+    font-size: 30px;
+    background-size: 130px 75px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .content-box h1 {
+    font-size: 28px;
+    background-size: 100px 72px;
   }
 }
