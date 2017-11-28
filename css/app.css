@@ -216,7 +216,7 @@ a:active {
   margin-bottom: 10px;
 }
 
-.content-wrap .news-wrap h3 {
+.content-wrap .sidebar-wrap h3 {
   color: #fff;
   margin: 0;
   padding: 20px 0 20px 15px;
@@ -229,20 +229,20 @@ a:active {
   -moz-border-radius-topright: 10px;
 }
 
-.content-wrap .news-wrap .list {
+.content-wrap .sidebar-wrap .list {
   border: 6px solid #c5d2f5;
 }
 
-.content-wrap .news-wrap .list .new {
+.content-wrap .sidebar-wrap .list .new {
   padding: 10px 5px;
   border-top: 2px solid #d7d7d7
 }
 
-.content-wrap .news-wrap .list .new:first-child {
+.content-wrap .sidebar-wrap .list .new:first-child {
   border-top: none;
 }
 
-.content-wrap .news-wrap .list .new a {
+.content-wrap .sidebar-wrap .list .new a {
   color: #4670ba;
 }
 

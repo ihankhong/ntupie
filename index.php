@@ -58,7 +58,7 @@
 			</div>
 		</div>
 		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
-			<div class="news-wrap">
+			<div class="sidebar-wrap">
 				<h3>最新消息</h3>
 				<div class="list">
 					<div class="new"><a href="#">未來二十年最有價值的科系：資工系</a></div>
