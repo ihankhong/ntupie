@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>國立台北大學資訊工程學系</title>
-	
+
 	<!-- jQuery	 -->
 	<script src="js/jquery-2.1.1.min.js"></script>
 	<!-- bootstrap -->
@@ -64,6 +64,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
+			<h4>主選單</h4>
 		</div>
 		<div id="navbar" class="navbar-collapse collapse" aria-expanded="false">
 			<ul class="nav navbar-nav">

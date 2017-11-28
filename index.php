@@ -4,9 +4,9 @@
 ?>
 <section class="content-wrap">
 	<div class="container-full clearfix">
-		<div class="col-xs-12 col-sm-9">
+		<div class="col-xs-12 col-sm-8 col-md-8 col-lg-9">
 			<div class="row">
-				<div class="col-xs-12 col-sm-6">
+				<div class="col-xs-12 col-md-6">
 					<div class="homeblock-wrap">
 						<a href="#"><img src="images/home/homeblock-1.png" class="img-responsive center-block" alt="系辦公告" /></a>
 						<div class="list">
@@ -18,7 +18,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-6">
+				<div class="col-xs-12 col-md-6">
 					<div class="homeblock-wrap">
 						<a href="#"><img src="images/home/homeblock-2.png" class="img-responsive center-block" alt="人才招募" /></a>
 						<div class="list">
@@ -31,7 +31,7 @@
 					</div>
 				</div>
 				<div class="clearfix"></div>
-				<div class="col-xs-12 col-sm-6">
+				<div class="col-xs-12 col-md-6">
 					<div class="homeblock-wrap">
 						<a href="#"><img src="images/home/homeblock-3.png" class="img-responsive center-block" alt="其他訊息" /></a>
 						<div class="list">
@@ -43,7 +43,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-6">
+				<div class="col-xs-12 col-md-6">
 					<div class="homeblock-wrap">
 						<a href="#"><img src="images/home/homeblock-4.png" class="img-responsive center-block" alt="學術活動" /></a>
 						<div class="list">
@@ -57,7 +57,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-12 col-sm-3">
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
 			<div class="news-wrap">
 				<h3>最新消息</h3>
 				<div class="list">
@@ -81,4 +81,4 @@
 <?php
  require_once("footer.php");
 ?>
-<script src="js/vendor.js"></script>	
+<script src="js/vendor.js"></script>
