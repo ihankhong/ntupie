@@ -21,6 +21,7 @@
 	<script src="js/owlcarousel/js/owl.carousel.min.js"></script>
 	<!-- app -->
 	<link href="css/app.css" rel="stylesheet">
+	<script src="js/app.js"></script>
 </head>
 <body>
 <header>

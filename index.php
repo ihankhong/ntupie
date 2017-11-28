@@ -81,4 +81,3 @@
 <?php
  require_once("footer.php");
 ?>
-<script src="js/vendor.js"></script>
