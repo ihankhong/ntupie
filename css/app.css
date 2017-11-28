@@ -49,6 +49,11 @@ a:active {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
 
+.sidebar-wrap .navbar-header img,
+.photos img {
+  width: 100%;
+}
+
 /**
  * navbar
  */
@@ -283,10 +288,6 @@ footer .footer-contact .copyright {
 /**
  * sidebar page
  */
-.sidebar-wrap .navbar-header img {
-  width: 100%;
-}
-
 .sidebar-wrap ul.navbar-nav>li.dropdown>a>span.arrow:before {
   font-family: FontAwesome;
   content: "\f078";
@@ -445,4 +446,12 @@ footer .footer-contact .copyright {
   .content-box {
     margin-top: 20px;
   }
+}
+
+/**
+ * album photos
+ */
+.photos img {
+  /*margin-top: 10px;*/
+  margin-bottom: 15px;
 }
