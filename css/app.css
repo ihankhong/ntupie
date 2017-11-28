@@ -266,3 +266,39 @@ footer .footer-contact {
 footer .footer-contact .copyright {
   color: #288bab;
 }
+
+/**
+ * sidebar page
+ */
+@media all and (min-width: 768px) {
+  .sidebar-wrap>.navbar-header,
+  .sidebar-wrap ul.navbar-nav,
+  .sidebar-wrap ul.navbar-nav>li {
+    float: none;
+  }
+
+  .sidebar-wrap>.navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .sidebar-wrap>.navbar-collapse,
+  .sidebar-wrap>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+
+  .sidebar-wrap .navbar-toggle {
+    top: 7px;
+  }
+
+  .sidebar-wrap .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+
+  .sidebar-wrap ul.navbar-nav a {
+    color: #4670ba;
+  }
+}
