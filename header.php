@@ -34,6 +34,11 @@
 			</div>
 			<div class="col-sm-6 hidden-xs">
 				<div class="form-inline hidden-xs hidden-sm text-right">
+					<ul class="nav linkbar">
+						<li><a href="index.php">首頁</a></li>
+						<li><a href="http://www.ntpu.edu.tw/chinese/">臺北大學首頁</a></li>
+						<li><a href="#">English</a></li>
+					</ul>
                     <form class="navbar-form" role="search">
                         <div class="input-group">
                             <input type="text" name="search" class="form-control" placeholder="全站搜尋">
@@ -97,6 +102,8 @@
 					</ul>
 				</li>
 				<li><a href="#">系友專區</a></li>
+				<li class="visible-xs-block"><a href="http://www.ntpu.edu.tw/chinese/">臺北大學首頁</a></li>
+				<li class="visible-xs-block"><a href="#">English</a></li>
 			</ul>
 		</div><!--/.nav-collapse -->
 	</div>

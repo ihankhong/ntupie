@@ -2,7 +2,6 @@
 
 body {
   color: #333;
-  /*padding-top: 102px;*/
   font-family: "Raleway", "Microsoft JhengHei", sans-serif;
 }
 
@@ -64,6 +63,24 @@ a:active {
   -webkit-border-top-right-radius: 10px;
   -moz-border-radius-topleft: 10px;
   -moz-border-radius-topright: 10px;
+}
+
+/**
+ * header
+ */
+header .form-inline ul.linkbar {
+  display: inline-block;
+}
+
+header .form-inline ul.linkbar>li {
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+header .form-inline ul.linkbar>li>a {
+  padding: 0 5px;
+  border-left: 1px solid #2170a9;
 }
 
 /**
